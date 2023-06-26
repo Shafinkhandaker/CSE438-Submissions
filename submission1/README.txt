@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1bbzln12YzdQ21s6QG1k0esec5kpXbd0U0DkDwqXQEVE/edit#slide=id.g2555847ce7e_0_5
 
 Project title:
 VQA using Multimodal Transformers
