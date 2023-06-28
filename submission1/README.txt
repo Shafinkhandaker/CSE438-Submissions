@@ -11,7 +11,7 @@ Project title:
 VQA using Multimodal Transformers
 
 Group Number:
-22
+09
 
 Group Members:
 20301190 Sajidul Islam Khandaker
