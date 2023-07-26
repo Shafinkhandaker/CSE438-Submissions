@@ -2,13 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/8147441555tchxcvbnnydd
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/qbkXODG13S8
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Vision Meets Language: Revolutionizing VQA using Multimodal Transformers
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
