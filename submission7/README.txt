@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Vision Meets Language: Enhancing Water Safety through Advanced Detection Techniques
+Enhancing Water Safety through Advanced Detection Techniques
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
