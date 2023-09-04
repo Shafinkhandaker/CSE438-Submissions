@@ -20,6 +20,7 @@ did project:
 I have done a total of three projects throughout this course one was a required project, one was a bonus project for this course and another one was done by my own interest.That project is about natural language processing.
 
 NLP_project_link: https://github.com/Shafinkhandaker/NLP_PROJECT_HATE_SPEECH_DETECTION
+NLP_project_report_link: https://docs.google.com/document/d/1sG3efKgWv6N3WvMqLAAdq-efYaaaIqUi_yaGnJGgA1U/edit?usp=sharing
 
 did something else
 1)I have read almost 8 conference papers regarding visual question answering.
