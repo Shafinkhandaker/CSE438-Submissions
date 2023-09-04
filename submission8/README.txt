@@ -25,6 +25,8 @@ did something else
 2)Reviewed those papers and made notes so that anyone can understand them easily 
 Reviewed paper link : https://docs.google.com/document/d/1uPv0IZo-0-v0sWkh72__vccY3sTDQSilWvfUC9ZgewU/edit?usp=sharing
 
+Signed in to : https://student.deepracer.com/home
+
 was active in slack:
 
 https://app.slack.com/client/T05BA5DKHD1/C05B3KW2V0W
