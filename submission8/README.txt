@@ -10,7 +10,7 @@ completed youtube video:
 https://www.youtube.com/playlist?list=PLMtsyBRwU_WC9kMczFr8hIojVvg2zqo5U
 
 completed book:
-http://book
+https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 did project:
 I have done two project . The paper link of those projects are given below
@@ -18,12 +18,13 @@ project1: https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submis
 project2:https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission7/bonus_task_CSE_438.pdf
 
 did something else
-...
+
 
 was active in slack:
-http://slack post URL1
-http://slack post URL2
+
+https://app.slack.com/client/T05BA5DKHD1/C05B3KW2V0W
+https://app.slack.com/client/T05BA5DKHD1/C05BNU8MLSD
 
 Submitter:
 20301190 Sajidul Islam Khandaker 
-group 09
+
