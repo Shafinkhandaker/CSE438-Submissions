@@ -13,13 +13,13 @@ completed book:
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 did project:
-I have done two projects for this course one was bonus project. The paper link of those projects are given below
+I have done a total of three projects for this course one was course required project, one was bonus project for this course and another one was done by own interest. The paper link of those projects are given below
 project1: https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission6/CSE438_Task06.pdf
 project2:https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission7/bonus_task_CSE_438.pdf
 
 I have done another project in NLP :
-
 NLP project : https://github.com/Shafinkhandaker/NLP_PROJECT_HATE_SPEECH_DETECTION
+
 did something else
 
 
