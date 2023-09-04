@@ -17,12 +17,9 @@ completed book:
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 did project:
-I have done a total of three projects throughout this course one was a required project, one was a bonus project for this course and another one was done by my own interest. The paper link of those projects are given below
-project1: https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission6/CSE438_Task06.pdf
-project2:https://github.com/Shafinkhandaker/CSE438-Submissions/blob/main/submission7/bonus_task_CSE_438.pdf
+I have done a total of three projects throughout this course one was a required project, one was a bonus project for this course and another one was done by my own interest.That project is about natural language processing.
 
-I have done another project in NLP :
-NLP project : https://github.com/Shafinkhandaker/NLP_PROJECT_HATE_SPEECH_DETECTION
+NLP_project_link: https://github.com/Shafinkhandaker/NLP_PROJECT_HATE_SPEECH_DETECTION
 
 did something else
 1)I have read almost 8 conference papers regarding visual question answering.
