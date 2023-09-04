@@ -17,7 +17,7 @@ completed book:
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 did project:
-I have done a total of three projects throughout this course one was a required project, one was a bonus project for this course and another one was done by my own interest.That project is about natural language processing.
+I have done a total of three projects throughout this course one was a required project, one was a bonus project for this course and another one was done by my own interest.That project is about natural language processing. which is Hate speech and offensive language detection from a Twitter dataset
 
 NLP_project_link: https://github.com/Shafinkhandaker/NLP_PROJECT_HATE_SPEECH_DETECTION
 NLP_project_report_link: https://docs.google.com/document/d/1sG3efKgWv6N3WvMqLAAdq-efYaaaIqUi_yaGnJGgA1U/edit?usp=sharing
