@@ -3,8 +3,10 @@ sajidul.islam.khandaker@g.bracu.ac.bd
 https://www.coursera.org/learn/machine-learning/home/info
 
 Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
+sajidul.islam.khandaker@g.bracu.ac.bd
+https://learning.edx.org/course/course-v1:GTx+CS7641+2T2018/home
+https://learning.edx.org/course/course-v1:UCSanDiegoX+DSE220x+2T2023/home
+
 
 completed youtube video:
 https://www.youtube.com/playlist?list=PLMtsyBRwU_WC9kMczFr8hIojVvg2zqo5U
