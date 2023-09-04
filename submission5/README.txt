@@ -11,8 +11,7 @@ Paper title:
 Vision Meets Language: Revolutionizing VQA using Multimodal Transformers
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
-
+https://docs.google.com/presentation/d/1x_cpPE6zcQiH1pweXWo8yv6VtkQebi43iH58OH7WhNw/edit#slide=id.p
 Paper submission date (to workshop/conference):
 25 October 1999
 
