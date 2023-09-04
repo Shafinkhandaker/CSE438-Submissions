@@ -22,8 +22,8 @@ NLP project : https://github.com/Shafinkhandaker/NLP_PROJECT_HATE_SPEECH_DETECTI
 
 did something else
 1)I have read almost 8 conference papers regarding visual question answering.
-2)Reviewed those papers and made notes so that any one can understand that easily 
-
+2)Reviewed those papers and made notes so that anyone can understand them easily 
+Reviewed paper link : https://docs.google.com/document/d/1uPv0IZo-0-v0sWkh72__vccY3sTDQSilWvfUC9ZgewU/edit?usp=sharing
 
 was active in slack:
 
