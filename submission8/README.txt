@@ -9,7 +9,9 @@ https://learning.edx.org/course/course-v1:UCSanDiegoX+DSE220x+2T2023/home
 
 
 completed youtube video:
-https://www.youtube.com/playlist?list=PLMtsyBRwU_WC9kMczFr8hIojVvg2zqo5U
+https://www.youtube.com/watch?v=GwIo3gDZCVQ
+https://www.youtube.com/watch?v=7eh4d6sabA0
+https://www.youtube.com/watch?v=ujTCoH21GlA&list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr
 
 completed book:
 https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
