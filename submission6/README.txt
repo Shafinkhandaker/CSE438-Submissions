@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=wiSuiAH-oDE&list=PLMtsyBRwU_WC9kMczFr8hIojVvg2zqo5U&index=1
 
 Conference submitted paper / paper submission / login Link:
-https://cmt3.research.microsoft.com/ICCITconf2023/Submission/Summary/318
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICCITconf2023
 
 Paper title:
 Vision Meets Language: Revolutionizing VQA using Multimodal Transformers
